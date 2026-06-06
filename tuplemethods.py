@@ -1,0 +1,6 @@
+a = ("Devansh", 21, 3.14)
+print(a)
+no = a.count("Devansh")
+print(no)
+i = a.index(3.14)
+print(i)    
