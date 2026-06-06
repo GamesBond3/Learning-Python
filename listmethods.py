@@ -1,0 +1,15 @@
+List = ["Devansh", 9, "Anshuman", 2.71]
+print(List)
+List.append("Annant")
+print(List)
+List.insert(1, "Pateriya")
+print(List)
+List.pop(2)
+print(List)
+List.remove(2.71)
+print(List)
+List.reverse()
+print(List)
+l1= [4, 2, 3]
+l1.sort()
+print(l1)
