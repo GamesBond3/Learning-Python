@@ -1,0 +1,11 @@
+Dict = {}
+name = input("Enter your name: ")
+lang = input("Enter your favourite programming language: ")
+Dict.update({name: lang})
+name = input("Enter your name: ")
+lang = input("Enter your favourite programming language: ")
+Dict.update({name: lang})
+name = input("Enter your name: ")
+lang = input("Enter your favourite programming language: ")
+Dict.update({name: lang})
+print(Dict)
