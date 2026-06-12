@@ -14,7 +14,7 @@ Reverse_Player_Dict = {1 : "Rock", 0 : "Paper", -1 : "Scissor"}
 
 Player = Player_dict[Player_input]
 
-print(f"You chose {Reverse_Player_Dict[Player]} \n And Computer chose {Reverse_Player_Dict[Computer_choice]}")
+print(f"You chose {Reverse_Player_Dict[Player]} \nAnd Computer chose {Reverse_Player_Dict[Computer_choice]}")
 
 if(Computer_choice == Player):
     print ("It's a tie")
