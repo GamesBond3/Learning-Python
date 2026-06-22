@@ -9,6 +9,5 @@ l = [1,4,5,6]
 
 '''         Alterante Method            '''
 
-
 for index, item in enumerate(l):
     print(f"At index {index} is {item}")
